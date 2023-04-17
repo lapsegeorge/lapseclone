@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "GeorgeLeadbeater.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

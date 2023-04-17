@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  LapseClone
+
+  Created by George Leadbeater on 16/04/2023.
+  
+*/
+
+"a_journal" = "Journal";
+"a_memories" = "Memories";
+"a_inbox" = "Inbox";
+"a_me" = "Me";
+
+"d_activity_new_friend" = " is now your friend on Journal 💕";
+"d_activity_reaction" = " reacted %@ to your snap";
+"d_all_activity" = "All activity";
+"d_this_month" = "This month";
+"d_this_week" = "This week";
+"d_thank_you_title" = "Thank you!";
+"d_thank_you_description" = "I hope this Journal by Lapse clone demonstrates my attention to detail, that I deliver quickly and that I will always go the extra mile.\n\nI would look forward to the opportunity to work with you and thank you for considering me!\n\nGeorge";
+
+"accessibility_camera" = "Opens the journal camera";

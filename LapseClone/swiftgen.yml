@@ -1,0 +1,16 @@
+
+## Localization
+strings:
+  inputs: LapseClone/Core/Resources/Localization/en.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: LapseClone/Core/Resources/Localization/L10n.swift
+
+## Assets
+xcassets:
+  inputs:
+    - LapseClone/Core/Resources/Assets/Colors.xcassets
+    - LapseClone/Core/Resources/Assets/Images.xcassets
+  outputs:
+    templateName: swift5
+    output: LapseClone/Core/Resources/Assets/Asset.swift

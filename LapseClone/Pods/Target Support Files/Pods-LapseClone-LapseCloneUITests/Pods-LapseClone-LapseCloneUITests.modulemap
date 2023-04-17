@@ -1,0 +1,6 @@
+framework module Pods_LapseClone_LapseCloneUITests {
+  umbrella header "Pods-LapseClone-LapseCloneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
