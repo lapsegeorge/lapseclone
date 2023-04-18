@@ -11,8 +11,7 @@ Built using MVVM and SwiftUI.
 ## Installation
 
 1. Open the LapseClone.xcworkspace file found in LapseClone/LapseClone.xcworkspace. This is necessary when using CocoaPods to ensure dependencies are resolved correctly
-2. Xcode -> File -> Packages -> Resolve Package Versions
-3. Build and run
+2. Build and run
 
 ## My thought process
 
